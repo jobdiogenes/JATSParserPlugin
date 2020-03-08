@@ -1,5 +1,5 @@
 {
-    "name": "JATSParserPlugin",
+    "name": "Vitaliy-1/JATSParserPlugin",
     "description": "OJS3 Plugin for parsing JATS XML and displaying it on article detail page ",
     "license": "LICENCE",
     "config": {
